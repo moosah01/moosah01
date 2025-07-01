@@ -55,6 +55,9 @@
 | **Indie Games**                | C++ • SDL2 / Flutter Flame | Top-down shooter & 3-level platformer, MVC Architecture |
 | **Steam Clone**                | Java                       | Portal with Flappy Bird, Snake & Chess                  |
 
+<!-- an italics line about and more to come ... -->
+<p align="center"><i>... and more to come!</i></p>
+
 ## 🛠 Tech Stack
 
 `JavaScript` | `TypeScript` | `Node.js` | `React` | `Express` | `MongoDB` | `Flutter` | `Dart` | `Kafka` | `Groovy` | `Python` | `Rust` | `Docker` | `Azure` | `SQL` | `GCP` | `Git` | `Agile` | `Apache Camel K`
