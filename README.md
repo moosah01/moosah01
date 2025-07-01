@@ -1,17 +1,35 @@
 <h1 align="center">👋 Hi, I'm Muhammad Moosa Hashim</h1>
+<!-- ✨ Dynamic tagline – ALWAYS centred  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+Integration+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  <!-- centre text **inside** the SVG -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3be8ff&center=true&vCenter=true&width=1000&lines=Cloud+%26+Integration+Enthusiast;Always+learning+something+new"
+    alt="Typing SVG centred"
+  />
 </p>
 
-<!-- Badges -->
+<!-- TECH-STACK BADGES -->
 <p align="center">
+
+  <!-- row 1 -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br/> <!-- 👆 forces a new centred line -->
+
+  <!-- row 2 (your existing badges, keep or reorder as you wish) -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moosah01"/>
+
+<br/><br/>
+
 </p>
 
 ## ✍️ About Me
@@ -34,7 +52,7 @@
 
 ## 🛠 Tech Stack
 
-`JavaScript` | `TypeScript` | `Node.js` | `React` | `Express` | `MongoDB` | `Flutter` | `Dart` | `Kafka` | `Groovy` | `Python` | `Rust` | `Docker` | `Azure`
+`JavaScript` | `TypeScript` | `Node.js` | `React` | `Express` | `MongoDB` | `Flutter` | `Dart` | `Kafka` | `Groovy` | `Python` | `Rust` | `Docker` | `Azure` | `SQL`
 
 ## 📊 GitHub Statistics
 
