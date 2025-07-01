@@ -39,25 +39,25 @@
 
 ## ✍️ About Me
 
-- 🔭 **Currently:** Software Engineer at **Techlogix**, optimising Kafka pipelines handling \$5 M+ transactions daily. <!-- data from resume -->
+- 🔭 **Currently:** Software Engineer at **Techlogix**, optimising Kafka pipelines handling \$5M+ transactions daily. <!-- data from resume -->
 - 🛠️ **Tech focus:** MERN stack, Flutter, Apache Kafka, Azure integrations, Groovy/CamelK.
-- 🌱 **Learning:** Rust for systems work & distributed services.
-- 🗣 **Talks:** Speaker at Google-endorsed _Flutter Festival Karachi_.
-- 🏃 **Beyond code:** Distance running, calisthenics & chess.
+- 🌱 **Learning:** Front End on REACT & Angular. Rust for systems work & distributed services.
+- 🗣 **Talks:** Speaker at Google-endorsed _Flutter Festival Karachi_ 2022.
+- 🏃 **Beyond code:** Distance running, calisthenics, chess & Dota 2.
 
 ## 🚀 Projects
 
 | Project                        | Stack                      | Highlights                                              |
 | ------------------------------ | -------------------------- | ------------------------------------------------------- |
-| **Learning Management System** | MERN • Flutter             | 100+ REST APIs, Cloudinary upload, scales to 10 k users |
-| **Attendance & KPI Tracker**   | MERN                       | Used by 10 warehouses; cut timesheet errors 40 %        |
+| **Learning Management System** | MERN • Flutter             | One Stop EdTech Solution, Cloudinary, scalable          |
+| **Attendance & KPI Tracker**   | MERN                       | Used by 10 warehouses; cut timesheet errors by 40 %     |
 | **Gamified Instagram Clone**   | MERN                       | Added game mechanics and secure auth                    |
-| **Indie Games**                | C++ • SDL2 / Flutter Flame | Top-down shooter & 3-level platformer                   |
+| **Indie Games**                | C++ • SDL2 / Flutter Flame | Top-down shooter & 3-level platformer, MVC Architecture |
 | **Steam Clone**                | Java                       | Portal with Flappy Bird, Snake & Chess                  |
 
 ## 🛠 Tech Stack
 
-`JavaScript` | `TypeScript` | `Node.js` | `React` | `Express` | `MongoDB` | `Flutter` | `Dart` | `Kafka` | `Groovy` | `Python` | `Rust` | `Docker` | `Azure` | `SQL`
+`JavaScript` | `TypeScript` | `Node.js` | `React` | `Express` | `MongoDB` | `Flutter` | `Dart` | `Kafka` | `Groovy` | `Python` | `Rust` | `Docker` | `Azure` | `SQL` | `GCP` | `Git` | `Agile` | `Apache Camel K`
 
 ## 📊 GitHub Statistics
 
