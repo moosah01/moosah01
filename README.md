@@ -2,11 +2,7 @@
 <!-- ✨ Dynamic tagline – ALWAYS centred  -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3be8ff&center=true&vCenter=true&width=1000
-    &lines=Cloud+%26+Integration+Enthusiast;
-    Backend+Engineer;
-    Trying+To+Be+Better;
-    Forever+Learning+New+Things"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3be8ff&center=true&vCenter=true&width=1000&lines=Cloud+%26+Integration+Enthusiast;Backend+Engineer;Trying+To+Be+Better;Forever+Learning+New+Things"
     alt="Typing SVG centred"
   />
 </p>
