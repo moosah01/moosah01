@@ -62,8 +62,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moosah01&show_icons=true&theme=github_dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moosah01&theme=github-dark&hide_border=true"/>
+  <!-- classic overall-stats card (still fine) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=moosah01&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com/?user=moosah01&theme=github-dark&hide_border=true" />
 </p>
 
 ## 🤝 Connect with Me
